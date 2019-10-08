@@ -1,0 +1,35 @@
+var classwayland_1_1xdg__toplevel__t =
+[
+    [ "wrapper_type", "classwayland_1_1xdg__toplevel__t.html#afc44f0d53890db6bd32d9b2f0c6994e9", [
+      [ "standard", "classwayland_1_1xdg__toplevel__t.html#afc44f0d53890db6bd32d9b2f0c6994e9ac00f0c4675b91fb8b918e4079a0b1bac", null ],
+      [ "display", "classwayland_1_1xdg__toplevel__t.html#afc44f0d53890db6bd32d9b2f0c6994e9aebf78b512222fe4dcd14e7d5060a15b0", null ],
+      [ "foreign", "classwayland_1_1xdg__toplevel__t.html#afc44f0d53890db6bd32d9b2f0c6994e9a684a72e08f24f55b1138edd5a7c2b53e", null ],
+      [ "proxy_wrapper", "classwayland_1_1xdg__toplevel__t.html#afc44f0d53890db6bd32d9b2f0c6994e9ae6cc1490287e90290ddd4e0b9efeb6d5", null ]
+    ] ],
+    [ "c_ptr", "classwayland_1_1xdg__toplevel__t.html#a6a9f256a9bfaed12ad36a357cc22df5e", null ],
+    [ "get_class", "classwayland_1_1xdg__toplevel__t.html#a8a77c6eab2f2eb4cfcca56be8a780d3e", null ],
+    [ "get_id", "classwayland_1_1xdg__toplevel__t.html#a273d7fd6604b65d4c4d24747b639a263", null ],
+    [ "get_version", "classwayland_1_1xdg__toplevel__t.html#a59444022b75257f6b27d2c464c371779", null ],
+    [ "get_wrapper_type", "classwayland_1_1xdg__toplevel__t.html#a65253c6ac727496735c0dc42a9fd1568", null ],
+    [ "move", "classwayland_1_1xdg__toplevel__t.html#a81a661a96ec48e08fd3b58a5f604ad55", null ],
+    [ "on_close", "classwayland_1_1xdg__toplevel__t.html#a27068a7df29fe7b29e12b5eb71c984a1", null ],
+    [ "on_configure", "classwayland_1_1xdg__toplevel__t.html#a54fabc21ab7eabf69f1cc3a5f9a8a5b2", null ],
+    [ "operator bool", "classwayland_1_1xdg__toplevel__t.html#aafa72a9121fa69ccfad6e9eff8740b5e", null ],
+    [ "operator!=", "classwayland_1_1xdg__toplevel__t.html#ac460e26f384624eb96647d533314240a", null ],
+    [ "operator==", "classwayland_1_1xdg__toplevel__t.html#a3dc433db4597e77caccb07f99b26a259", null ],
+    [ "proxy_has_object", "classwayland_1_1xdg__toplevel__t.html#a0c596640d7469447cb0b91dc9c8c22b2", null ],
+    [ "proxy_release", "classwayland_1_1xdg__toplevel__t.html#a0af69af8f839a5a5ea354e52705e9a43", null ],
+    [ "resize", "classwayland_1_1xdg__toplevel__t.html#af5102efd2c01ad56eb5811887a7df1e6", null ],
+    [ "set_app_id", "classwayland_1_1xdg__toplevel__t.html#a795aaf0eb3f578ae2eea5b163e7d2fc1", null ],
+    [ "set_fullscreen", "classwayland_1_1xdg__toplevel__t.html#a2c6ace340b03217a048f41644ca6794c", null ],
+    [ "set_max_size", "classwayland_1_1xdg__toplevel__t.html#a608d327530e874ed666a0eff8d8fb259", null ],
+    [ "set_maximized", "classwayland_1_1xdg__toplevel__t.html#a55d7485f59eeec328335d1fe86fca9f4", null ],
+    [ "set_min_size", "classwayland_1_1xdg__toplevel__t.html#a539a675afe84f545ed9b05824e0a99e3", null ],
+    [ "set_minimized", "classwayland_1_1xdg__toplevel__t.html#a7e2c02efb228b17f19e6d436ae523e94", null ],
+    [ "set_parent", "classwayland_1_1xdg__toplevel__t.html#ab9b32e22ab7edb7e527effd7991be260", null ],
+    [ "set_queue", "classwayland_1_1xdg__toplevel__t.html#a2065bb6f0ba51f29fdf16b8168bb5958", null ],
+    [ "set_title", "classwayland_1_1xdg__toplevel__t.html#a45e4632d00f4b52b96c3706081d4d9bf", null ],
+    [ "show_window_menu", "classwayland_1_1xdg__toplevel__t.html#a2a937bcde98359c96b89a542ea572114", null ],
+    [ "unset_fullscreen", "classwayland_1_1xdg__toplevel__t.html#af3836376d6911ff739218f2d7e462b46", null ],
+    [ "unset_maximized", "classwayland_1_1xdg__toplevel__t.html#aff3a7b00545369856391a56faebb10b6", null ]
+];

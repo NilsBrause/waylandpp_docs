@@ -1,0 +1,95 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classwayland_1_1proxy__t.html" title="Represents a protocol object on the client side." alt="" coords="5,2551,140,2577"/>
+<area shape="rect" id="node2" href="$classwayland_1_1buffer__t.html" title="content for a wl_surface" alt="" coords="240,5,375,32"/>
+<area shape="rect" id="node3" href="$classwayland_1_1callback__t.html" title="callback object" alt="" coords="232,56,383,83"/>
+<area shape="rect" id="node4" href="$classwayland_1_1compositor__t.html" title="the compositor singleton" alt="" coords="222,107,393,133"/>
+<area shape="rect" id="node5" href="$classwayland_1_1data__device__manager__t.html" title="data transfer interface" alt="" coords="225,158,389,199"/>
+<area shape="rect" id="node6" href="$classwayland_1_1data__device__t.html" title="data transfer device" alt="" coords="219,224,395,251"/>
+<area shape="rect" id="node7" href="$classwayland_1_1data__offer__t.html" title="offer to transfer data" alt="" coords="226,275,389,301"/>
+<area shape="rect" id="node8" href="$classwayland_1_1data__source__t.html" title="offer to transfer data" alt="" coords="219,325,395,352"/>
+<area shape="rect" id="node9" href="$classwayland_1_1display__t.html" title="Represents a connection to the compositor and acts as a proxy to the display singleton object." alt="" coords="235,376,379,403"/>
+<area shape="rect" id="node10" href="$classwayland_1_1keyboard__t.html" title="keyboard input device" alt="" coords="229,427,386,453"/>
+<area shape="rect" id="node11" href="$classwayland_1_1output__t.html" title="compositor output region" alt="" coords="238,477,377,504"/>
+<area shape="rect" id="node12" href="$classwayland_1_1pointer__t.html" title="pointer input device" alt="" coords="236,528,379,555"/>
+<area shape="rect" id="node13" href="$classwayland_1_1presentation__feedback__t.html" title="presentation time feedback event" alt="" coords="224,579,391,621"/>
+<area shape="rect" id="node14" href="$classwayland_1_1presentation__t.html" title="timed presentation related wl_surface requests" alt="" coords="218,645,397,672"/>
+<area shape="rect" id="node15" href="$classwayland_1_1region__t.html" title="region interface" alt="" coords="238,696,377,723"/>
+<area shape="rect" id="node16" href="$classwayland_1_1registry__t.html" title="global registry object" alt="" coords="234,747,381,773"/>
+<area shape="rect" id="node17" href="$classwayland_1_1seat__t.html" title="group of input devices" alt="" coords="245,797,370,824"/>
+<area shape="rect" id="node18" href="$classwayland_1_1shell__surface__t.html" title="desktop&#45;style metadata interface" alt="" coords="216,848,399,875"/>
+<area shape="rect" id="node19" href="$classwayland_1_1shell__t.html" title="create desktop&#45;style surfaces" alt="" coords="243,899,371,925"/>
+<area shape="rect" id="node20" href="$classwayland_1_1shm__pool__t.html" title="a shared memory pool" alt="" coords="227,949,387,976"/>
+<area shape="rect" id="node21" href="$classwayland_1_1shm__t.html" title="shared memory support" alt="" coords="245,1000,370,1027"/>
+<area shape="rect" id="node22" href="$classwayland_1_1subcompositor__t.html" title="sub&#45;surface compositing" alt="" coords="211,1051,404,1077"/>
+<area shape="rect" id="node23" href="$classwayland_1_1subsurface__t.html" title="sub&#45;surface interface to a wl_surface" alt="" coords="223,1101,391,1128"/>
+<area shape="rect" id="node24" href="$classwayland_1_1surface__t.html" title="an onscreen surface" alt="" coords="235,1152,380,1179"/>
+<area shape="rect" id="node25" href="$classwayland_1_1touch__t.html" title="touchscreen input device" alt="" coords="241,1203,374,1229"/>
+<area shape="rect" id="node26" href="$classwayland_1_1viewport__t.html" title="crop and scale interface to a wl_surface" alt="" coords="230,1253,385,1280"/>
+<area shape="rect" id="node27" href="$classwayland_1_1viewporter__t.html" title="surface cropping and scaling" alt="" coords="224,1304,391,1331"/>
+<area shape="rect" id="node28" href="$classwayland_1_1xdg__popup__t.html" title="short&#45;lived, popup surfaces for menus" alt="" coords="223,1355,391,1381"/>
+<area shape="rect" id="node29" href="$classwayland_1_1xdg__positioner__t.html" title="child surface positioner" alt="" coords="211,1405,404,1432"/>
+<area shape="rect" id="node30" href="$classwayland_1_1xdg__surface__t.html" title="desktop user interface surface base interface" alt="" coords="219,1456,395,1483"/>
+<area shape="rect" id="node31" href="$classwayland_1_1xdg__toplevel__t.html" title="toplevel surface" alt="" coords="217,1507,398,1533"/>
+<area shape="rect" id="node32" href="$classwayland_1_1xdg__wm__base__t.html" title="create desktop&#45;style surfaces" alt="" coords="212,1557,403,1584"/>
+<area shape="rect" id="node33" href="$classwayland_1_1zwp__confined__pointer__v1__t.html" title="confined pointer object" alt="" coords="221,1609,394,1650"/>
+<area shape="rect" id="node34" href="$classwayland_1_1zwp__fullscreen__shell__v1__t.html" title="displays a single surface per output" alt="" coords="216,1674,399,1715"/>
+<area shape="rect" id="node35" href="$classwayland_1_1zwp__idle__inhibit__manager__v1__t.html" title="control behavior when display idles" alt="" coords="212,1739,403,1781"/>
+<area shape="rect" id="node36" href="$classwayland_1_1zwp__idle__inhibitor__v1__t.html" title="context object for inhibiting idle behavior" alt="" coords="188,1805,427,1832"/>
+<area shape="rect" id="node37" href="$classwayland_1_1zwp__input__method__context__v1__t.html" title="input method context" alt="" coords="222,1857,393,1898"/>
+<area shape="rect" id="node38" href="$classwayland_1_1zwp__input__method__v1__t.html" title="input method" alt="" coords="232,1922,383,1963"/>
+<area shape="rect" id="node39" href="$classwayland_1_1zwp__input__panel__v1__t.html" title="interface for implementing keyboards" alt="" coords="232,1987,383,2029"/>
+<area shape="rect" id="node40" href="$classwayland_1_1zwp__input__timestamps__manager__v1__t.html" title="context object for high&#45;resolution input timestamps" alt="" coords="204,2053,411,2094"/>
+<area shape="rect" id="node41" href="$classwayland_1_1zwp__input__timestamps__v1__t.html" title="context object for input timestamps" alt="" coords="232,2118,383,2159"/>
+<area shape="rect" id="node42" href="$classwayland_1_1zwp__keyboard__shortcuts__inhibit__manager__v1__t.html" title="context object for keyboard grab_manager" alt="" coords="189,2183,426,2225"/>
+<area shape="rect" id="node43" href="$classwayland_1_1zwp__keyboard__shortcuts__inhibitor__v1__t.html" title="context object for keyboard shortcuts inhibitor" alt="" coords="215,2249,400,2290"/>
+<area shape="rect" id="node44" href="$classwayland_1_1zwp__linux__buffer__params__v1__t.html" title="parameters for creating a dmabuf&#45;based wl_buffer" alt="" coords="228,2314,387,2355"/>
+<area shape="rect" id="node45" href="$classwayland_1_1zwp__linux__buffer__release__v1__t.html" title="buffer release explicit synchronization" alt="" coords="229,2379,386,2421"/>
+<area shape="rect" id="node46" href="$classwayland_1_1zwp__linux__dmabuf__v1__t.html" title="factory for creating dmabuf&#45;based wl_buffers" alt="" coords="232,2445,383,2486"/>
+<area shape="rect" id="node47" href="$classwayland_1_1zwp__linux__explicit__synchronization__v1__t.html" title="protocol for providing explicit synchronization" alt="" coords="196,2510,419,2551"/>
+<area shape="rect" id="node48" href="$classwayland_1_1zwp__linux__surface__synchronization__v1__t.html" title="per&#45;surface explicit synchronization support" alt="" coords="196,2575,419,2617"/>
+<area shape="rect" id="node49" href="$classwayland_1_1zwp__locked__pointer__v1__t.html" title="receive relative pointer motion events" alt="" coords="227,2641,387,2682"/>
+<area shape="rect" id="node50" href="$classwayland_1_1zwp__pointer__constraints__v1__t.html" title="constrain the movement of a pointer" alt="" coords="225,2706,389,2747"/>
+<area shape="rect" id="node51" href="$classwayland_1_1zwp__pointer__gesture__pinch__v1__t.html" title="a pinch gesture object" alt="" coords="225,2771,389,2813"/>
+<area shape="rect" id="node52" href="$classwayland_1_1zwp__pointer__gesture__swipe__v1__t.html" title="a swipe gesture object" alt="" coords="225,2837,389,2878"/>
+<area shape="rect" id="node53" href="$classwayland_1_1zwp__pointer__gestures__v1__t.html" title="touchpad gestures" alt="" coords="225,2902,389,2943"/>
+<area shape="rect" id="node54" href="$classwayland_1_1zwp__primary__selection__device__manager__v1__t.html" title="X primary selection emulation." alt="" coords="188,2967,427,3009"/>
+<area shape="rect" id="node55" href="$classwayland_1_1zwp__primary__selection__offer__v1__t.html" title="offer to transfer primary selection contents" alt="" coords="223,3033,392,3074"/>
+<area shape="rect" id="node56" href="$classwayland_1_1zwp__primary__selection__source__v1__t.html" title="offer to replace the contents of the primary selection" alt="" coords="221,3098,394,3139"/>
+<area shape="rect" id="node57" href="$classwayland_1_1zwp__relative__pointer__manager__v1__t.html" title="get relative pointer objects" alt="" coords="220,3163,395,3205"/>
+<area shape="rect" id="node58" href="$classwayland_1_1zwp__relative__pointer__v1__t.html" title="relative pointer object" alt="" coords="223,3229,391,3270"/>
+<area shape="rect" id="node59" href="$classwayland_1_1zwp__tablet__manager__v1__t.html" title="controller object for graphic tablet devices" alt="" coords="229,3294,385,3335"/>
+<area shape="rect" id="node60" href="$classwayland_1_1zwp__tablet__manager__v2__t.html" title="controller object for graphic tablet devices" alt="" coords="229,3359,385,3401"/>
+<area shape="rect" id="node61" href="$classwayland_1_1zwp__tablet__pad__group__v2__t.html" title="a set of buttons, rings and strips" alt="" coords="229,3425,385,3466"/>
+<area shape="rect" id="node62" href="$classwayland_1_1zwp__tablet__pad__ring__v2__t.html" title="pad ring" alt="" coords="229,3490,385,3531"/>
+<area shape="rect" id="node63" href="$classwayland_1_1zwp__tablet__pad__strip__v2__t.html" title="pad strip" alt="" coords="229,3555,385,3597"/>
+<area shape="rect" id="node64" href="$classwayland_1_1zwp__tablet__pad__v2__t.html" title="a set of buttons, rings and strips" alt="" coords="229,3621,385,3662"/>
+<area shape="rect" id="node65" href="$classwayland_1_1zwp__tablet__seat__v1__t.html" title="controller object for graphic tablet devices of a seat" alt="" coords="229,3686,385,3727"/>
+<area shape="rect" id="node66" href="$classwayland_1_1zwp__tablet__seat__v2__t.html" title="controller object for graphic tablet devices of a seat" alt="" coords="229,3751,385,3793"/>
+<area shape="rect" id="node67" href="$classwayland_1_1zwp__tablet__tool__v1__t.html" title="a physical tablet tool" alt="" coords="229,3817,385,3858"/>
+<area shape="rect" id="node68" href="$classwayland_1_1zwp__tablet__tool__v2__t.html" title="a physical tablet tool" alt="" coords="229,3882,385,3923"/>
+<area shape="rect" id="node69" href="$classwayland_1_1zwp__tablet__v1__t.html" title="graphics tablet device" alt="" coords="212,3948,403,3975"/>
+<area shape="rect" id="node70" href="$classwayland_1_1zwp__tablet__v2__t.html" title="graphics tablet device" alt="" coords="212,3999,403,4025"/>
+<area shape="rect" id="node71" href="$classwayland_1_1zwp__text__input__manager__v1__t.html" title="text input manager" alt="" coords="215,4050,399,4091"/>
+<area shape="rect" id="node72" href="$classwayland_1_1zwp__text__input__manager__v3__t.html" title="text input manager" alt="" coords="215,4115,399,4157"/>
+<area shape="rect" id="node73" href="$classwayland_1_1zwp__text__input__v1__t.html" title="text input" alt="" coords="198,4181,417,4208"/>
+<area shape="rect" id="node74" href="$classwayland_1_1zwp__text__input__v3__t.html" title="text input" alt="" coords="198,4232,417,4259"/>
+<area shape="rect" id="node75" href="$classwayland_1_1zwp__xwayland__keyboard__grab__manager__v1__t.html" title="context object for keyboard grab manager" alt="" coords="195,4283,420,4325"/>
+<area shape="rect" id="node76" href="$classwayland_1_1zwp__xwayland__keyboard__grab__v1__t.html" title="interface for grabbing the keyboard" alt="" coords="217,4349,398,4390"/>
+<area shape="rect" id="node77" href="$classwayland_1_1zxdg__decoration__manager__v1__t.html" title="window decoration manager" alt="" coords="211,4414,403,4455"/>
+<area shape="rect" id="node78" href="$classwayland_1_1zxdg__exported__v1__t.html" title="an exported surface handle" alt="" coords="199,4480,415,4507"/>
+<area shape="rect" id="node79" href="$classwayland_1_1zxdg__exported__v2__t.html" title="an exported surface handle" alt="" coords="199,4531,415,4557"/>
+<area shape="rect" id="node80" href="$classwayland_1_1zxdg__exporter__v1__t.html" title="interface for exporting surfaces" alt="" coords="201,4581,414,4608"/>
+<area shape="rect" id="node81" href="$classwayland_1_1zxdg__exporter__v2__t.html" title="interface for exporting surfaces" alt="" coords="201,4632,414,4659"/>
+<area shape="rect" id="node82" href="$classwayland_1_1zxdg__imported__v1__t.html" title="an imported surface handle" alt="" coords="199,4683,416,4709"/>
+<area shape="rect" id="node83" href="$classwayland_1_1zxdg__imported__v2__t.html" title="an imported surface handle" alt="" coords="199,4733,416,4760"/>
+<area shape="rect" id="node84" href="$classwayland_1_1zxdg__importer__v1__t.html" title="interface for importing surfaces" alt="" coords="200,4784,415,4811"/>
+<area shape="rect" id="node85" href="$classwayland_1_1zxdg__importer__v2__t.html" title="interface for importing surfaces" alt="" coords="200,4835,415,4861"/>
+<area shape="rect" id="node86" href="$classwayland_1_1zxdg__output__manager__v1__t.html" title="manage xdg_output objects" alt="" coords="225,4886,390,4927"/>
+<area shape="rect" id="node87" href="$classwayland_1_1zxdg__output__v1__t.html" title="compositor logical output region" alt="" coords="207,4952,407,4979"/>
+<area shape="rect" id="node88" href="$classwayland_1_1zxdg__popup__v6__t.html" title="short&#45;lived, popup surfaces for menus" alt="" coords="208,5003,407,5029"/>
+<area shape="rect" id="node89" href="$classwayland_1_1zxdg__positioner__v6__t.html" title="child surface positioner" alt="" coords="196,5053,419,5080"/>
+<area shape="rect" id="node90" href="$classwayland_1_1zxdg__shell__v6__t.html" title="create desktop&#45;style surfaces" alt="" coords="213,5104,402,5131"/>
+<area shape="rect" id="node91" href="$classwayland_1_1zxdg__surface__v6__t.html" title="desktop user interface surface base interface" alt="" coords="204,5155,411,5181"/>
+<area shape="rect" id="node92" href="$classwayland_1_1zxdg__toplevel__decoration__v1__t.html" title="decoration object for a toplevel surface" alt="" coords="219,5206,395,5247"/>
+<area shape="rect" id="node93" href="$classwayland_1_1zxdg__toplevel__v6__t.html" title="toplevel surface" alt="" coords="202,5272,413,5299"/>
+</map>

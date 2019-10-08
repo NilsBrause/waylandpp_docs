@@ -1,0 +1,38 @@
+var classwayland_1_1zwp__input__method__context__v1__t =
+[
+    [ "wrapper_type", "classwayland_1_1zwp__input__method__context__v1__t.html#afc44f0d53890db6bd32d9b2f0c6994e9", [
+      [ "standard", "classwayland_1_1zwp__input__method__context__v1__t.html#afc44f0d53890db6bd32d9b2f0c6994e9ac00f0c4675b91fb8b918e4079a0b1bac", null ],
+      [ "display", "classwayland_1_1zwp__input__method__context__v1__t.html#afc44f0d53890db6bd32d9b2f0c6994e9aebf78b512222fe4dcd14e7d5060a15b0", null ],
+      [ "foreign", "classwayland_1_1zwp__input__method__context__v1__t.html#afc44f0d53890db6bd32d9b2f0c6994e9a684a72e08f24f55b1138edd5a7c2b53e", null ],
+      [ "proxy_wrapper", "classwayland_1_1zwp__input__method__context__v1__t.html#afc44f0d53890db6bd32d9b2f0c6994e9ae6cc1490287e90290ddd4e0b9efeb6d5", null ]
+    ] ],
+    [ "c_ptr", "classwayland_1_1zwp__input__method__context__v1__t.html#a6a9f256a9bfaed12ad36a357cc22df5e", null ],
+    [ "commit_string", "classwayland_1_1zwp__input__method__context__v1__t.html#aa4bbc1e2edb88c6a54f1fbef986e3693", null ],
+    [ "cursor_position", "classwayland_1_1zwp__input__method__context__v1__t.html#a45b88137b38b7ceb4826f310afd5ebd2", null ],
+    [ "delete_surrounding_text", "classwayland_1_1zwp__input__method__context__v1__t.html#a890ae69a3b94f867612569487b4b939a", null ],
+    [ "get_class", "classwayland_1_1zwp__input__method__context__v1__t.html#a8a77c6eab2f2eb4cfcca56be8a780d3e", null ],
+    [ "get_id", "classwayland_1_1zwp__input__method__context__v1__t.html#a273d7fd6604b65d4c4d24747b639a263", null ],
+    [ "get_version", "classwayland_1_1zwp__input__method__context__v1__t.html#a59444022b75257f6b27d2c464c371779", null ],
+    [ "get_wrapper_type", "classwayland_1_1zwp__input__method__context__v1__t.html#a65253c6ac727496735c0dc42a9fd1568", null ],
+    [ "grab_keyboard", "classwayland_1_1zwp__input__method__context__v1__t.html#a6ecad969bf606545b41ebb487975e3bb", null ],
+    [ "key", "classwayland_1_1zwp__input__method__context__v1__t.html#a8141ca713f69f18d0b47ef99182de2f0", null ],
+    [ "keysym", "classwayland_1_1zwp__input__method__context__v1__t.html#a1c756f2d499cf0dca69fd16af618e097", null ],
+    [ "language", "classwayland_1_1zwp__input__method__context__v1__t.html#a9f35c6ef6076f595313801abaa31154e", null ],
+    [ "modifiers", "classwayland_1_1zwp__input__method__context__v1__t.html#a2462724f138a84339aacd5fdcfbfb5d8", null ],
+    [ "modifiers_map", "classwayland_1_1zwp__input__method__context__v1__t.html#a9aabb6c60817b11c387f9e5ebfc44bf3", null ],
+    [ "on_commit_state", "classwayland_1_1zwp__input__method__context__v1__t.html#affd0f6af109bdbb81eca6218ea34099c", null ],
+    [ "on_content_type", "classwayland_1_1zwp__input__method__context__v1__t.html#a5572a7da79fb01c4c8c9cb5793042749", null ],
+    [ "on_invoke_action", "classwayland_1_1zwp__input__method__context__v1__t.html#a13574d96512e152b418ab4cdc3f52def", null ],
+    [ "on_preferred_language", "classwayland_1_1zwp__input__method__context__v1__t.html#acc7391dd7684320ab469b3eb079b7eb1", null ],
+    [ "on_surrounding_text", "classwayland_1_1zwp__input__method__context__v1__t.html#a353632dcb43e4530f6c146e04580b3fa", null ],
+    [ "operator bool", "classwayland_1_1zwp__input__method__context__v1__t.html#aafa72a9121fa69ccfad6e9eff8740b5e", null ],
+    [ "operator!=", "classwayland_1_1zwp__input__method__context__v1__t.html#ac460e26f384624eb96647d533314240a", null ],
+    [ "operator==", "classwayland_1_1zwp__input__method__context__v1__t.html#a3dc433db4597e77caccb07f99b26a259", null ],
+    [ "preedit_cursor", "classwayland_1_1zwp__input__method__context__v1__t.html#aeb38b5fc84dcf10f937bd79de7a23241", null ],
+    [ "preedit_string", "classwayland_1_1zwp__input__method__context__v1__t.html#aca17e190238e75b6bd46fbce21c6fff2", null ],
+    [ "preedit_styling", "classwayland_1_1zwp__input__method__context__v1__t.html#a2780aa2c53ebe5b3ef5cc021d1f8ca83", null ],
+    [ "proxy_has_object", "classwayland_1_1zwp__input__method__context__v1__t.html#a0c596640d7469447cb0b91dc9c8c22b2", null ],
+    [ "proxy_release", "classwayland_1_1zwp__input__method__context__v1__t.html#a0af69af8f839a5a5ea354e52705e9a43", null ],
+    [ "set_queue", "classwayland_1_1zwp__input__method__context__v1__t.html#a2065bb6f0ba51f29fdf16b8168bb5958", null ],
+    [ "text_direction", "classwayland_1_1zwp__input__method__context__v1__t.html#a4fd307b2066c9cec1dff15de99a4cf99", null ]
+];

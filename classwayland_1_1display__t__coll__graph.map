@@ -1,0 +1,4 @@
+<map id="wayland::display_t" name="wayland::display_t">
+<area shape="rect" id="node1" title="Represents a connection to the compositor and acts as a proxy to the display singleton object." alt="" coords="5,80,149,107"/>
+<area shape="rect" id="node2" href="$classwayland_1_1proxy__t.html" title="Represents a protocol object on the client side." alt="" coords="10,5,145,32"/>
+</map>
